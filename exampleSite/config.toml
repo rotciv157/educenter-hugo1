@@ -1,5 +1,5 @@
 baseURL = " pioneergaming.netlify.app"
-disableLanguages = []
+disableLanguages = ["french"]
 disqusShortname = "Pioneer Gaming"
 paginate = "6"
 summaryLength = "10"
