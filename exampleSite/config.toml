@@ -1,5 +1,5 @@
 baseURL = " pioneergaming.netlify.app"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
